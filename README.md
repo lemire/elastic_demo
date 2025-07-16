@@ -166,6 +166,14 @@ docker compose down
 
 ---
 
+
+## Autres solutions
+
+Nous avons fait cette activité avec Elasticsearch parce qu'il s'agit d'une solution
+populaire et bien établie. Par contre, l'entreprise derrière Elasticsearch impose
+certaines limites.  OpenSearch a une license open source plus libérale.
+
+
 **Fichiers à disposition :**
 - Les PDF à indexer sont dans le dossier `data/`.
 - Le fichier `docker-compose.yml` pour lancer Elasticsearch
