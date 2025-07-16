@@ -1,5 +1,8 @@
 # Activité d'initiation à Elasticsearch avec Docker
 
+
+Elasticsearch est un moteur de recherche, open-source, conçu pour gérer de grands volumes de données. Il permet des recherches sur le texte intégral, des agrégations complexes et des analyses en temps réel sur des ensembles de données hétérogènes, comme des logs, des documents ou des métriques. Il s'intègre facilement avec d'autres outils et langages de programmation. Ce moteur repose fondamentalement sur Apache Lucene, une bibliothèque open-source de recherche qui fournit les algorithmes de base pour l'indexation et la récupération d'informations.
+
 ## Docker
 
 Pour installer Docker, vous pouvez suivre les ([instructions](https://docs.docker.com/get-docker/)) de l'entreprise Docker (en anglais). Vous pouvez aussi suivre le guide suivant.
